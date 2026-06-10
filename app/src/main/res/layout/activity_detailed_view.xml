@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:fitsSystemWindows="true"
+    android:background="@color/sand"
+    tools:ignore="NamespaceTypo">
+
+    <!-- Button to display data -->
+
+    <!-- Scrollable container for the text list -->
+
+    <Button
+        android:id="@+id/btnShowGear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/muted_sage"
+        android:text="@string/display_gear_list"
+        android:textColor="#000000"
+        tools:ignore="VisualLintSystemUi" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp">
+
+    <TextView
+        android:id="@+id/txtGearDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#333333" />
+    </ScrollView>
+
+    <!-- Navigation button to return to MainActivity -->
+    <Button
+        android:id="@+id/btnBackToBase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/muted_sage"
+        android:text="@string/back_to_base"
+        android:textColor="#000000" />
+
+</LinearLayout>

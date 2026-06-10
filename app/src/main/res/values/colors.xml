@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sand">#C2B280</color>
+    <color name="warm_desert">#F5DEB3</color>"
+    <color name="rich_pine">#4A3A2A</color>
+    <color name="deep_moss">#1F3B2C</color>
+    <color name="muted_sage">#6B7F3A</color>
+    <color name="deep_blue">#37474F</color>
+</resources>
