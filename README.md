@@ -15,6 +15,11 @@ departing for an outdoor adventure, example: a camping trip.
 - Back to base button.
 - Back to base button takes user back to the splash screen.
 
+## Screenshots
+<img width="496" height="921" alt="Screenshot 2026-06-10 123258" src="https://github.com/user-attachments/assets/8a5a4f11-8b2a-445f-b087-96d12af6b08f" />
+<img width="483" height="931" alt="Screenshot 2026-06-10 123408" src="https://github.com/user-attachments/assets/447a61ad-01c2-4948-9c4f-84db90d79c12" />
+<img width="517" height="934" alt="Screenshot 2026-06-10 123515" src="https://github.com/user-attachments/assets/79b76611-46e4-46f6-aefc-3f82a55fc42e" />
+
  ## Built with:
 - Kotlin
 - Android Studio
