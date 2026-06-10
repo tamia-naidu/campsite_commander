@@ -1,7 +1,7 @@
 # 📱 Campsite Commander
 
 ## App Description:
-The Campsite Commander app is an Android application developed utilising Kotlin through Android Studio. The intetion of the app is to assist users to pack before 
+The Campsite Commander app is an Android application developed utilising Kotlin through Android Studio. The intention of the app is to assist users to pack before 
 departing for an outdoor adventure, example: a camping trip. 
 
 ## Features Include:
